@@ -1,0 +1,13 @@
+.icon-button img {
+    position:relative;
+    top: -0.1em;
+    left: -0.1em;
+}
+
+.icon-button img.invert {
+    filter: invert(100%);
+}
+
+.icon-button span {
+    margin-left: 0.5em;
+}

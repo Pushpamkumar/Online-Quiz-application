@@ -1,0 +1,126 @@
+.question-question {
+    background-color: #fff;
+    color: #000;
+    border-radius: 2px;
+    padding: 20px;
+    margin: 10px;
+    margin-bottom: 2vh;
+    font-size: 1.0em;
+}
+
+.answer-stats-visible .question-question {
+    margin-bottom: 0.38em;
+}
+
+.question-answer-letter {
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: var(--gray);
+    color: #fff;
+    height: 100%;
+    padding: 10px 10px 0 10px;
+    font-size: 1.0em;
+}
+
+.question-answer {
+    position: relative;
+    background-color: #fff;
+    color: #000;
+    border-radius: 2px;
+    padding: 10px 2.1em;
+    margin: 10px 10px 10px 10px;
+    text-align: left;
+    margin-bottom: min(4vh, 1em);
+}
+
+.answer-stats-visible .question-answer {
+    margin-bottom: 0.38em;
+}
+
+.question-answer-correct {
+    background-color: #7bd447;
+}
+
+.question-counter {
+    font-size: 1.2em;
+    margin-bottom: 0.5em;
+    padding-left: 0.75rem;
+    text-align: left;
+}
+
+.question-answers-counter {
+    font-size: 1.2em;
+    text-align: right;
+    margin-right: 0.75rem;
+}
+
+.question-progress {
+    margin-top: 5px;
+    margin-right: -2em;
+}
+
+.question-control-buttons {
+    position: fixed;
+    bottom: min(5px, max(25px, 10vh));
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    z-index: 1000;
+    padding: 10px 20px;
+}
+
+.question-control-buttons .btn-group {
+    margin: 0 0.5em;
+}
+
+.question-control-buttons .btn {
+    margin: 0 0.2em;
+    background-color: #343a40;
+    border-color: #343a40;
+    color: white;
+}
+
+.question-control-buttons .btn:hover:not(:disabled) {
+    background-color: #23272b;
+    border-color: #1d2124;
+}
+
+.question-control-buttons .material-ui-icon {
+    font-size: 1.5em;
+    margin-right: 0.3em;
+    position: relative;
+    top: -0.1em;
+    filter: invert(100%);
+}
+
+.question-control-offset {
+    padding-bottom: 10vh;
+}
+
+@media screen and (max-width: 768px) {
+    .question-control-offset {
+        padding-bottom: 100px;
+    }
+
+    .question-control-buttons .btn {
+        min-width: inherit;
+    }
+}
+
+.question-image {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-height: max(0.5vh, calc(100vh - 37rem));
+    margin-top: 20px;
+}
+
+.question-image img {
+    max-width: 100%;
+    width: 100%;
+    object-fit: contain;
+    border-radius: 4px;
+}
