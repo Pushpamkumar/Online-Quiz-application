@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\capgemini\reverse\obj\Debug\net10.0\reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\capgemini\reverse\obj\Debug\net10.0\reverse.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\reverse\obj\Debug\net10.0\reverse.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\capgemini\reverse\obj\Debug\net10.0\reverse.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\reverse\obj\Debug\net10.0\reverse.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\reverse\bin\Debug\net10.0\reverse.exe
+C:\Users\pushp\OneDrive\Desktop\capgemini\reverse\bin\Debug\net10.0\reverse.deps.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\reverse\bin\Debug\net10.0\reverse.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\reverse\bin\Debug\net10.0\reverse.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\reverse\bin\Debug\net10.0\reverse.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\reverse\obj\Debug\net10.0\reverse.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\reverse\obj\Debug\net10.0\refint\reverse.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\reverse\obj\Debug\net10.0\reverse.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\reverse\obj\Debug\net10.0\reverse.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\reverse\obj\Debug\net10.0\ref\reverse.dll

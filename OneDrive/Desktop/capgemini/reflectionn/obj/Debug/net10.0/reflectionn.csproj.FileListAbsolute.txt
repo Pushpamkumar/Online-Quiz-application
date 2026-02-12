@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\capgemini\reflectionn\bin\Debug\net10.0\reflectionn.exe
+C:\Users\pushp\OneDrive\Desktop\capgemini\reflectionn\bin\Debug\net10.0\reflectionn.deps.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\reflectionn\bin\Debug\net10.0\reflectionn.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\reflectionn\bin\Debug\net10.0\reflectionn.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\reflectionn\bin\Debug\net10.0\reflectionn.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\reflectionn\obj\Debug\net10.0\reflectionn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\capgemini\reflectionn\obj\Debug\net10.0\reflectionn.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\reflectionn\obj\Debug\net10.0\reflectionn.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\capgemini\reflectionn\obj\Debug\net10.0\reflectionn.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\reflectionn\obj\Debug\net10.0\reflectionn.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\reflectionn\obj\Debug\net10.0\reflectionn.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\reflectionn\obj\Debug\net10.0\refint\reflectionn.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\reflectionn\obj\Debug\net10.0\reflectionn.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\reflectionn\obj\Debug\net10.0\reflectionn.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\reflectionn\obj\Debug\net10.0\ref\reflectionn.dll

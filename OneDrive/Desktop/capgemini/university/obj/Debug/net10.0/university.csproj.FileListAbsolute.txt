@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\capgemini\university\obj\Debug\net10.0\university.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\capgemini\university\obj\Debug\net10.0\university.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\university\obj\Debug\net10.0\university.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\capgemini\university\obj\Debug\net10.0\university.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\university\obj\Debug\net10.0\university.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\university\bin\Debug\net10.0\university.exe
+C:\Users\pushp\OneDrive\Desktop\capgemini\university\bin\Debug\net10.0\university.deps.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\university\bin\Debug\net10.0\university.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\university\bin\Debug\net10.0\university.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\university\bin\Debug\net10.0\university.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\university\obj\Debug\net10.0\university.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\university\obj\Debug\net10.0\refint\university.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\university\obj\Debug\net10.0\university.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\university\obj\Debug\net10.0\university.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\university\obj\Debug\net10.0\ref\university.dll

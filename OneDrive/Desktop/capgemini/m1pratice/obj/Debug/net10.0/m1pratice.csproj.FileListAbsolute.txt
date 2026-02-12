@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\capgemini\m1pratice\obj\Debug\net10.0\m1pratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\capgemini\m1pratice\obj\Debug\net10.0\m1pratice.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\m1pratice\obj\Debug\net10.0\m1pratice.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\capgemini\m1pratice\obj\Debug\net10.0\m1pratice.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\m1pratice\obj\Debug\net10.0\m1pratice.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\m1pratice\bin\Debug\net10.0\m1pratice.exe
+C:\Users\pushp\OneDrive\Desktop\capgemini\m1pratice\bin\Debug\net10.0\m1pratice.deps.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\m1pratice\bin\Debug\net10.0\m1pratice.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\m1pratice\bin\Debug\net10.0\m1pratice.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\m1pratice\bin\Debug\net10.0\m1pratice.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\m1pratice\obj\Debug\net10.0\m1pratice.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\m1pratice\obj\Debug\net10.0\refint\m1pratice.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\m1pratice\obj\Debug\net10.0\m1pratice.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\m1pratice\obj\Debug\net10.0\m1pratice.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\m1pratice\obj\Debug\net10.0\ref\m1pratice.dll

@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\capgemini\m2_rateLimi\bin\Debug\net10.0\m2_rateLimi.exe
+C:\Users\pushp\OneDrive\Desktop\capgemini\m2_rateLimi\bin\Debug\net10.0\m2_rateLimi.deps.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\m2_rateLimi\bin\Debug\net10.0\m2_rateLimi.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\m2_rateLimi\bin\Debug\net10.0\m2_rateLimi.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\m2_rateLimi\bin\Debug\net10.0\m2_rateLimi.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\m2_rateLimi\obj\Debug\net10.0\m2_rateLimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\capgemini\m2_rateLimi\obj\Debug\net10.0\m2_rateLimi.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\m2_rateLimi\obj\Debug\net10.0\m2_rateLimi.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\capgemini\m2_rateLimi\obj\Debug\net10.0\m2_rateLimi.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\m2_rateLimi\obj\Debug\net10.0\m2_rateLimi.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\m2_rateLimi\obj\Debug\net10.0\m2_rateLimi.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\m2_rateLimi\obj\Debug\net10.0\refint\m2_rateLimi.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\m2_rateLimi\obj\Debug\net10.0\m2_rateLimi.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\m2_rateLimi\obj\Debug\net10.0\m2_rateLimi.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\m2_rateLimi\obj\Debug\net10.0\ref\m2_rateLimi.dll

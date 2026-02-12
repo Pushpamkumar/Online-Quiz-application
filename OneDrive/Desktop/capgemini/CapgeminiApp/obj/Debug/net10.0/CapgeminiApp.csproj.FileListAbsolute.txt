@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\bin\Debug\net10.0\CapgeminiApp.exe
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\bin\Debug\net10.0\CapgeminiApp.deps.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\bin\Debug\net10.0\CapgeminiApp.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\bin\Debug\net10.0\CapgeminiApp.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\bin\Debug\net10.0\CapgeminiApp.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\obj\Debug\net10.0\CapgeminiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\obj\Debug\net10.0\CapgeminiApp.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\obj\Debug\net10.0\CapgeminiApp.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\obj\Debug\net10.0\CapgeminiApp.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\obj\Debug\net10.0\CapgeminiApp.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\obj\Debug\net10.0\CapgeminiApp.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\obj\Debug\net10.0\refint\CapgeminiApp.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\obj\Debug\net10.0\CapgeminiApp.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\obj\Debug\net10.0\CapgeminiApp.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\obj\Debug\net10.0\ref\CapgeminiApp.dll

@@ -1,0 +1,6 @@
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\CapgeminiApp.Tests\obj\Debug\net10.0\CapgeminiApp.Tests.csproj.AssemblyReference.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\CapgeminiApp.Tests\obj\Debug\net10.0\CapgeminiApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\CapgeminiApp.Tests\obj\Debug\net10.0\CapgeminiApp.Tests.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\CapgeminiApp.Tests\obj\Debug\net10.0\CapgeminiApp.Tests.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\CapgeminiApp.Tests\obj\Debug\net10.0\CapgeminiApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\CapgeminiApp\CapgeminiApp.Tests\obj\Debug\net10.0\CapgeminiApp.Tests.sourcelink.json

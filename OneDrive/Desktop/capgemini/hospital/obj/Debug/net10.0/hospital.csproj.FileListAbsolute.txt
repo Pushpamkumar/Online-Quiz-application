@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\capgemini\hospital\bin\Debug\net10.0\hospital.exe
+C:\Users\pushp\OneDrive\Desktop\capgemini\hospital\bin\Debug\net10.0\hospital.deps.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\hospital\bin\Debug\net10.0\hospital.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\hospital\bin\Debug\net10.0\hospital.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\hospital\bin\Debug\net10.0\hospital.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\hospital\obj\Debug\net10.0\hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\capgemini\hospital\obj\Debug\net10.0\hospital.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\hospital\obj\Debug\net10.0\hospital.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\capgemini\hospital\obj\Debug\net10.0\hospital.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\hospital\obj\Debug\net10.0\hospital.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\hospital\obj\Debug\net10.0\hospital.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\hospital\obj\Debug\net10.0\refint\hospital.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\hospital\obj\Debug\net10.0\hospital.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\hospital\obj\Debug\net10.0\hospital.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\hospital\obj\Debug\net10.0\ref\hospital.dll

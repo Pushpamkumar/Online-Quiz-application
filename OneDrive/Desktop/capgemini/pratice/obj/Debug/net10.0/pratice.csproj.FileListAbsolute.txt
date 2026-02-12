@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\capgemini\pratice\obj\Debug\net10.0\pratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\capgemini\pratice\obj\Debug\net10.0\pratice.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\pratice\obj\Debug\net10.0\pratice.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\capgemini\pratice\obj\Debug\net10.0\pratice.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\pratice\obj\Debug\net10.0\pratice.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\pratice\bin\Debug\net10.0\pratice.exe
+C:\Users\pushp\OneDrive\Desktop\capgemini\pratice\bin\Debug\net10.0\pratice.deps.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\pratice\bin\Debug\net10.0\pratice.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\pratice\bin\Debug\net10.0\pratice.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\pratice\bin\Debug\net10.0\pratice.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\pratice\obj\Debug\net10.0\pratice.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\pratice\obj\Debug\net10.0\refint\pratice.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\pratice\obj\Debug\net10.0\pratice.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\pratice\obj\Debug\net10.0\pratice.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\pratice\obj\Debug\net10.0\ref\pratice.dll

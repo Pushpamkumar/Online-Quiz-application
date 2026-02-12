@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\capgemini\gmail\obj\Debug\net10.0\gmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\capgemini\gmail\obj\Debug\net10.0\gmail.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\gmail\obj\Debug\net10.0\gmail.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\capgemini\gmail\obj\Debug\net10.0\gmail.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\gmail\obj\Debug\net10.0\gmail.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\gmail\bin\Debug\net10.0\gmail.exe
+C:\Users\pushp\OneDrive\Desktop\capgemini\gmail\bin\Debug\net10.0\gmail.deps.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\gmail\bin\Debug\net10.0\gmail.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\gmail\bin\Debug\net10.0\gmail.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\gmail\bin\Debug\net10.0\gmail.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\gmail\obj\Debug\net10.0\gmail.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\gmail\obj\Debug\net10.0\refint\gmail.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\gmail\obj\Debug\net10.0\gmail.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\gmail\obj\Debug\net10.0\gmail.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\gmail\obj\Debug\net10.0\ref\gmail.dll
